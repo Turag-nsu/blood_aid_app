@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522872186754",
+    "project_id": "bloodaid-fc981",
+    "storage_bucket": "bloodaid-fc981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522872186754:android:3838a9243c6f18d4e0119b",
+        "android_client_info": {
+          "package_name": "com.example.blood_aid_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCkzb-LHAorwH4PZeocH-TrkodMlAa9dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
